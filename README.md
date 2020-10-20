@@ -4,8 +4,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tiagorici&show_icons=true&theme=chartreuse-dark)](https://github.com/tiagorici/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorici&layout=compact&theme=chartreuse-dark)](https://github.com/tiagorici/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Rici-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagorici/)](https://www.linkedin.com/in/tiagorici)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Rici-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagorici/)](https://www.linkedin.com/in/tiagorici/) &nbsp; 
+[![Gmail Badge](https://img.shields.io/badge/-tiago.rici@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiago.rici@gmail.com)](mailto:tiago.rici@gmail.com)
 <!--
 **tiagorici/tiagorici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
