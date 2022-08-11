@@ -4,7 +4,7 @@
 
 ## Olá mundo!
 
-[![teste](javascript:alert('OK'))
+[![teste](javascript:alert())
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagorici&repo=tiagorici&theme=chartreuse-dark)](https://github.com/tiagorici/tiagorici)
 
