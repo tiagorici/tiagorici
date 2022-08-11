@@ -1,3 +1,5 @@
+<script src="https://tryhackme.com/badge/1273010">s</script>
+
 # Tiago Rici
 
 ## Olá mundo!
