@@ -4,7 +4,7 @@
 
 
 
-https://tryhackme.com/badge/1273010
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagorici&repo=tiagorici&theme=chartreuse-dark)](https://github.com/tiagorici/tiagorici)
 
 [![tiagorici's github stats](https://github-readme-stats.vercel.app/api?username=tiagorici&show_icons=true&theme=chartreuse-dark)](https://github.com/tiagorici/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorici&layout=compact&theme=chartreuse-dark)](https://github.com/tiagorici/github-readme-stats)
