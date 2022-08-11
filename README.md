@@ -1,4 +1,4 @@
-<script src='https://tryhackme.com/badge/1273010'></script>
+<script src="https://tryhackme.com/badge/1273010"></script>
 
 # Tiago Rici
 
